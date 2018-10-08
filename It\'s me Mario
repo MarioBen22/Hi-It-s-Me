@@ -1,10 +1,17 @@
 //This program prints a messages with my name in it.
+// Mario Benavides
+// Hello C++ Completed
+
+
 #include <iostream>
 using namespace std;
+
 
 int main()
 {
 	cout << "Hi! It\'s me Mario. \n";
 	cout << "I\'m learning to program! \n";
+	
+	
 	return 0;
 }
